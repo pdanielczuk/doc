@@ -3,7 +3,7 @@
 
  Version | Date | Pages | Processor | Changes| 
  --------|------|-------|-----------|---------
-1.0 | 08.11.2019 | N/A | Markdown  |    |
+1.0 | 08.11.2019 | N/A | Markdown  |     |
 
 ### Morpheus
 
