@@ -12,7 +12,7 @@ Tekst 123
 TEST !@$%^&(((!@(#($!@)%)%!@_)))::
 
    fmt.Prinln("Hello, world!")
-   >> Hello, world
+   >> Hello, world!
 
 Guide:
 ^^^^^^
