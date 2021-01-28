@@ -1,5 +1,5 @@
 
-Welcome to cfdocs's documentation!
+Welcome to cfdocs's first documentation!
 ==================================
 
 Header:
@@ -12,7 +12,7 @@ Tekst 123
 TEST !@$%^&(((!@(#($!@)%)%!@_)))::
 
    fmt.Prinln("Hello, world!")
-   >> Hello, world
+   >> Hello, world!
 
 Guide:
 ^^^^^^
