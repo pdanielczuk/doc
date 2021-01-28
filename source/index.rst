@@ -1,5 +1,5 @@
 
-Welcome to cfdocs's documentation!
+Welcome to cfdocs's first documentation!
 ==================================
 
 Header:
