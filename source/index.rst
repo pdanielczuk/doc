@@ -1,5 +1,5 @@
 
-Welcome to cfdocs's first documentation!
+Welcome to cfdocs's documentation!
 ==================================
 
 Header:
@@ -12,7 +12,7 @@ Tekst 123
 TEST !@$%^&(((!@(#($!@)%)%!@_)))::
 
    fmt.Prinln("Hello, world!")
-   >> Hello, world!
+   >> Hello, world
 
 Guide:
 ^^^^^^
@@ -21,9 +21,9 @@ Guide:
    :maxdepth: 2
 
    test
-.. image:: master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
-   :width: 600
 
+
+.. image:: https://raw.githubusercontent.com/CloudFerro/doc/master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
 
 
 Indices and tables
