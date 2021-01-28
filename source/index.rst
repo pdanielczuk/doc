@@ -21,7 +21,8 @@ Guide:
    :maxdepth: 2
 
    test
-
+.. image:: images/1_dashboard.png
+   :width: 600
 
 
 
