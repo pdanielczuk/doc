@@ -21,7 +21,7 @@ Guide:
    :maxdepth: 2
 
    test
-.. image:: WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
+.. image:: master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
    :width: 600
 
 
