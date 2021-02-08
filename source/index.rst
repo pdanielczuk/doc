@@ -21,6 +21,7 @@ Guide:
    :maxdepth: 2
 
    test
+   test1
 
 
 .. image:: https://raw.githubusercontent.com/CloudFerro/doc/master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
