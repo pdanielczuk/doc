@@ -22,6 +22,7 @@ Guide:
 
    test
    test1
+   Gstarted/gstarted
 
 
 .. image:: https://raw.githubusercontent.com/CloudFerro/doc/master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
