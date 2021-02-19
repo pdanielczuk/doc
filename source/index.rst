@@ -18,11 +18,14 @@ Guide:
 ^^^^^^
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :caption: Creodias
 
    test
    test1
+   About/about
    Gstarted/gstarted
+   DataAccess/dataaccess
 
 
 .. image:: https://raw.githubusercontent.com/CloudFerro/doc/master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
