@@ -21,8 +21,6 @@ Guide:
    :maxdepth: 3
    :caption: Creodias
 
-   test
-   test1
    About/about
    Gstarted/gstarted
    DataAccess/dataaccess
