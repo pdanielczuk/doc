@@ -25,6 +25,7 @@ Guide:
    Gstarted/gstarted
    DataAccess/dataaccess
    jupyterhub/jupyterhub
+   dataProcessing/dataprocessing
 
 
 .. image:: https://raw.githubusercontent.com/CloudFerro/doc/master/WEkEO/Wekeo-runbook-cloudferro-images/Cloud_configuration/1_dashboard.png
